@@ -146,3 +146,35 @@ button {
   color: white;
   cursor: pointer;
 }
+.navbar {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 60px;
+  z-index: 10;
+}
+
+.logo {
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  letter-spacing: 2px;
+  transition: 0.3s;
+}
+
+.nav-links a:hover {
+  opacity: 0.6;
+}
