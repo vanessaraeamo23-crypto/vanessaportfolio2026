@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vanessa Amo | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<section class="hero">
+  <div class="glitch-container">
+    <img src="images/hero.png" class="base">
+    <img src="images/hero.png" class="glitch glitch1">
+    <img src="images/hero.png" class="glitch glitch2">
+  </div>
+
+  <div class="hero-text">
+    <p class="subtitle">CREATIVE PORTFOLIO</p>
+    <h1 class="glitch-text">VISUALS<br>THAT<br>SPEAK.</h1>
+    <p class="desc">PHOTOGRAPHY • DESIGN • STORYTELLING</p>
+    <button>EXPLORE →</button>
+  </div>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
