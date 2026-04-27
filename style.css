@@ -12,6 +12,18 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-start;
+
+  body {
+  margin: 0;
+}
+
+.hero {
+  height: 100vh;
+  background: url("images/Images 1.png") no-repeat center center/cover;
+  display: flex;
+  align-items: center;
+  color: white;
+}
 }
 
 /* IMAGE STACK */
