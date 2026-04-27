@@ -9,9 +9,9 @@
 
 <section class="hero">
   <div class="glitch-container">
-    <img src="images/hero.png" class="base">
-    <img src="images/hero.png" class="glitch glitch1">
-    <img src="images/hero.png" class="glitch glitch2">
+    <img src="images/Images 1.png" class="base">
+    <img src="images/Images 1.png" class="glitch glitch1">
+    <img src="images/Images 1.png" class="glitch glitch2">
   </div>
 
   <div class="hero-text">
